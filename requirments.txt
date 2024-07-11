@@ -1,0 +1,15 @@
+detectron2==0.6
+cv-bridge==1.13.0.post0
+opencv-python==4.5.5.64
+opencv-python-headless==4.6.0.66
+parrot-olympe==7.7.0
+pynput==1.7.6
+torch== 1.13.0+cu117
+torchaudio== 0.13.0+cu117
+torchvision==0.14.0+cu117
+scipy==1.4.1
+filterpy==1.4.5
+matplotlib==3.7.3
+scikit-image==0.17.2
+Sphinx==1.8.5
+numpy==1.22.0

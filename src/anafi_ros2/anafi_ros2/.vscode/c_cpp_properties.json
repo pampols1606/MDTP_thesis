@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/bluesky/Desktop/ferran_thesis/ros2_ws/install/vicon_receiver/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/bluesky/Desktop/ferran_thesis/ros2_ws/src/ros2-vicon-receiver-master/vicon_receiver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
