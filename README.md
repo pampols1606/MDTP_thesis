@@ -77,7 +77,7 @@ This launch file containes the nodes to control the ANAFI drone through the Parr
 - Roate clockwise --> *c*
 - Roate counter-clockwise --> *x*
 
-![Manual control](https://gitlab.com/barczyk-mechatronic-systems-lab/anafi_ros2/-/raw/main/Docs/keyboard_control.jpg?ref_type=heads&inline=false)
+![Manual control](./Docs/keyboard_control.jpg)
 
 To start/end the pursuit of the BEBOP 2 drone (the drone tries to reach the origin of the world's coordinate drame) press the *space* key. 
 

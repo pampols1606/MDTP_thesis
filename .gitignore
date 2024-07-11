@@ -1,3 +1,5 @@
 **.pt
 **.pth
 **.pyc
+log/
+.vscode/
